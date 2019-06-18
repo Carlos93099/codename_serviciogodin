@@ -1,0 +1,83 @@
+@media screen and (max-width: 375px) {
+    .Mostrar_pedido-mp {
+        position: absolute;
+        width: 187px;
+        height: 31px;
+        left: 94px;
+        top: 131px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-smn {
+        position: absolute;
+        width: 134px;
+        height: 11px;
+        left: 38px;
+        top: 193px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9px;
+        line-height: 11px;
+        color: #686A6A;
+    }
+
+    .Mostrar_pedido-cnsms {
+        position: absolute;
+        width: 114px;
+        height: 21px;
+        left: 40px;
+        top: 224px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-ttl {
+        position: absolute;
+        width: 51px;
+        height: 21px;
+        left: 251px;
+        top: 223px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-ttlnum {
+        position: absolute;
+        width: 37px;
+        height: 35px;
+        left: 303px;
+        top: 216px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        border-radius: 20px;
+        text-align: center;
+        justify-content: center;
+        color: white;
+    }
+
+    .Mostrar_pedido-rectangle {
+        position: absolute;
+        width: 300px;
+        height: 377px;
+        left: 38px;
+        top: 271px;
+        background: rgba(196, 196, 196, 0.4);
+        mix-blend-mode: normal;
+        border-radius: 20px;
+    }
+}
