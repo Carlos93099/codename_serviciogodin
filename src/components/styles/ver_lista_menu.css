@@ -283,7 +283,7 @@
         height: 24px;
         left: 0px;
         top: 646px;
-        background: rgba(196, 196, 196, 0.4);
+        background-color: rgba(0, 125, 164, 0.4);
         mix-blend-mode: normal;
         text-align: center;
         justify-content: center;
@@ -296,7 +296,7 @@
         font-size: 14px;
         line-height: 16px;
         text-align: center;
-        color: #B4B5B6;
+        color: white;
     }
 
     .Ver_lista_menu-cc {
