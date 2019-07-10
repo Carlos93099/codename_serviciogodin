@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/codename_serviciogodin/static/css/main.1a5ba636.chunk.css",
+    "main.js": "/codename_serviciogodin/static/js/main.8077d365.chunk.js",
+    "main.js.map": "/codename_serviciogodin/static/js/main.8077d365.chunk.js.map",
+    "runtime~main.js": "/codename_serviciogodin/static/js/runtime~main.8049627a.js",
+    "runtime~main.js.map": "/codename_serviciogodin/static/js/runtime~main.8049627a.js.map",
+    "static/js/2.904338a0.chunk.js": "/codename_serviciogodin/static/js/2.904338a0.chunk.js",
+    "static/js/2.904338a0.chunk.js.map": "/codename_serviciogodin/static/js/2.904338a0.chunk.js.map",
+    "index.html": "/codename_serviciogodin/index.html",
+    "precache-manifest.d6e22afbc4f57dc4a73ea1fc4ec5a120.js": "/codename_serviciogodin/precache-manifest.d6e22afbc4f57dc4a73ea1fc4ec5a120.js",
+    "service-worker.js": "/codename_serviciogodin/service-worker.js",
+    "static/css/main.1a5ba636.chunk.css.map": "/codename_serviciogodin/static/css/main.1a5ba636.chunk.css.map",
+    "static/media/inicio.css": "/codename_serviciogodin/static/media/Fondo.8ca4d8b6.png",
+    "static/media/Pollo.png": "/codename_serviciogodin/static/media/Pollo.bf086677.png",
+    "static/media/logo_horizontal_azul2.png": "/codename_serviciogodin/static/media/logo_horizontal_azul2.0aa95be4.png",
+    "static/media/mmenublanco.png": "/codename_serviciogodin/static/media/mmenublanco.06d0dbe6.png"
+  }
+}
