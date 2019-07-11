@@ -3,9 +3,10 @@ import casa from '../images/home.png'
 import corazon from '../images/Heart.png'
 import carrito from '../images/Carrito.png'
 import buscar from '../images/Group 9.png'
-import './styles/menu_footer3.css'
+import vector from '../images/Vector.png'
+import './styles/menu_footer2.css'
 
-export default function Menu_footer3() {
+export default function MenuFooter2() {
     return (
         <div>
             <div className="Ver_lista_menu-container2">
@@ -24,6 +25,10 @@ export default function Menu_footer3() {
                 <img 
                     className="Ver_lista_menu-search"
                     src={buscar}
+                />
+                <img
+                    className="Ver_lista_menu-vctr"
+                    src={vector}
                 />
             </div>
         </div>

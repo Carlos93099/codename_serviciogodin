@@ -1,14 +1,14 @@
 import React, { Component } from 'react'
-import Navbar2 from '../components/Navbar2';
+import Navbar2 from '../components/Navbar2'
 import MenuFooter2 from '../components/MenuFooter2';
-import SeleccionarPago from '../components/SeleccionarPago';
+import MostrarPedido from '../components/MostrarPedido'
 
-export default class Pago extends Component {
+export default class VerPedido extends Component {
     render() {
         return (
             <div>
                 <Navbar2 />
-                <SeleccionarPago />
+                <MostrarPedido />
                 <MenuFooter2 />
             </div>
         )

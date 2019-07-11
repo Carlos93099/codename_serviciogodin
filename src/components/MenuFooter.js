@@ -7,10 +7,10 @@ import vector from '../images/Vector.png'
 import notificacion from '../images/Group 10.png'
 import corazon from '../images/Heart.png'
 
-export default function Menu_footer() {
+export default function MenuFooter() {
     return (
         <div>
-            <div className="Home-container3">                  
+            <div className="Home-container3">
                 <img 
                     className="Home-cs"
                     src={casa} 
@@ -34,7 +34,7 @@ export default function Menu_footer() {
                 <img
                     className="Home-vctr"
                     src={vector}
-                />            
+                />
             </div>
         </div>
     )

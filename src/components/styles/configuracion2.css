@@ -1,5 +1,5 @@
 @media screen and (max-width: 700px) {
-    .Registro_formulario2-itd {
+    .Configuracion-c {
         position: absolute;
         width: 254px;
         height: 33px;
@@ -14,11 +14,7 @@
         color: #007DA4;
     }
 
-    p {
-        color: red;
-    }
-
-    .Registro_formulario2-n {
+    .Configuracion-mc {
         position: absolute;
         width: 136px;
         height: 16px;
@@ -32,20 +28,16 @@
         color: #686A6A;
     }
 
-    #ast {
-        color: red;
-    }
-
-    .Registro_formulario2-ni {
+    .Configuracion-l1 {
         position: absolute;
         width: 300px;
-        height: 10px;
+        height: 0px;
         left: 38px;
         top: 272px;
         border: 0.25px solid #686A6A;
     }
 
-    .Registro_formulario2-a {
+    .Configuracion-msc {
         position: absolute;
         width: 136px;
         height: 16px;
@@ -59,16 +51,16 @@
         color: #686A6A;
     }
 
-    .Registro_formulario2-ai {
+    .Configuracion-l2 {
         position: absolute;
         width: 300px;
-        height: 10px;
+        height: 0px;
         left: 38px;
         top: 355px;
         border: 0.25px solid #686A6A;
     }
 
-    .Registro_formulario2-ce {
+    .Configuracion-mm {
         position: absolute;
         width: 136px;
         height: 16px;
@@ -82,16 +74,16 @@
         color: #686A6A;
     }
 
-    .Registro_formulario2-cei {
+    .Configuracion-l3 {
         position: absolute;
         width: 300px;
-        height: 10px;
+        height: 0px;
         left: 38px;
         top: 442px;
         border: 0.25px solid #686A6A;
     }
 
-    .Registro_formulario2-c {
+    .Configuracion-cs {
         position: absolute;
         width: 90px;
         height: 13px;
@@ -105,62 +97,12 @@
         color: #686A6A;
     }
 
-    .Registro_formulario2-cc {
+    .Configuracion-l4 {
         position: absolute;
-        width: 170px;
-        height: 16px;
-        left: 190px;
-        top: 477px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: 300;
-        font-size: 14px;
-        line-height: 16px;
-        color: #686A6A;
-    }
-
-    .Registro_formulario2-ci {
-        position: absolute;
-        width: 122px;
-        height: 10px;
+        width: 300px;
+        height: 0px;
         left: 38px;
         top: 534px;
         border: 0.25px solid #686A6A;
-    }
-
-    .Registro_formulario2-cci {
-        position: absolute;
-        width: 140px;
-        height: 10px;
-        left: 198px;
-        top: 534px;
-        border: 0.25px solid #686A6A;
-    }
-
-    .Registro_formulario2-cr {
-        position: absolute;
-        width: 150px;
-        height: 13px;
-        left: 128px;
-        top: 586px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: 300;
-        font-size: 14px;
-        line-height: 16px;
-    }
-
-    .Registro_formulario2-boton {
-        position: absolute;
-        width: 246px;
-        height: 35px;
-        left: 63px;
-        top: 614px;
-        background: #007DA4;
-        mix-blend-mode: normal;
-        border-radius: 20px;
-        color: white;
-        text-align: center;
-        justify-content: center;
     }
 }

@@ -1,27 +1,31 @@
 import React from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
-import Finalizar_pedido from '../pages/finalizar_pedido';
-import Pago from '../pages/pago';
-import Ver_pedido from '../pages/ver_pedido'
-import Lista_menu from '../pages/lista_menu';
-import Home from '../pages/home';
-import Registro_sesion from '../pages/registro_sesion';
-import Inicio from '../pages/inicio';
-import Inicio_sesion from '../pages/inicio_sesion';
+import FinalizarPedido from '../pages/FinalizarPedido';
+import Pago from '../pages/Pago';
+import VerPedido from '../pages/VerPedido'
+import ListaMenu from '../pages/ListaMenu';
+import Home from '../pages/Home';
+import RegistroSesion from '../pages/RegistroSesion';
+import Inicio from '../pages/Inicio';
+import InicioSesion from '../pages/InicioSesion';
+import Configuraciones from '../pages/Configuraciones'
+import Configuraciones2 from '../pages/Configuraciones2'
 
 export default function App() {
     return (
         <div>
             <BrowserRouter>
             <Switch>
-                <Route exact path="/inicio" component={Inicio} />
-                <Route exact path="/inicio/sesion" component={Inicio_sesion} />
-                <Route exact path="/inicio/registro/sesion" component={Registro_sesion} />
+                <Route exact path="/" component={Inicio} />
+                <Route exact path="/iniciosesion" component={InicioSesion} />
+                <Route exact path="/registro" component={RegistroSesion} />
                 <Route exact path="/home" component={Home} />
-                <Route exact path="/home/lista/menu" component={Lista_menu} />
-                <Route exact path="/home/pedido" component={Ver_pedido} />
+                <Route exact path="/home/listamenu" component={ListaMenu} />
+                <Route exact path="/home/pedido" component={VerPedido} />
                 <Route exact path="/home/pago" component={Pago} />
-                <Route exact path="/home/finalizar" component={Finalizar_pedido} />
+                <Route exact path="/home/finalizar" component={FinalizarPedido} />
+                <Route exact path="/configuraciones" component={Configuraciones} />
+                <Route exact path="/configuraciones/cuenta" component={Configuraciones2} />
             </Switch>
         </BrowserRouter>
         </div>

@@ -1,0 +1,93 @@
+@media screen and (max-width: 700px) {
+    .Configuracion-i {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 49px;
+        top: 224px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Configuracion-l1 {
+        position: absolute;
+        width: 300px;
+        height: 0px;
+        left: 38px;
+        top: 272px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Configuracion-c {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 50px;
+        top: 309px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Configuracion-l2 {
+        position: absolute;
+        width: 300px;
+        height: 0px;
+        left: 38px;
+        top: 355px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Configuracion-mf {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 50px;
+        top: 390px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Configuracion-l3 {
+        position: absolute;
+        width: 300px;
+        height: 0px;
+        left: 38px;
+        top: 442px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Configuracion-mc {
+        position: absolute;
+        width: 90px;
+        height: 13px;
+        left: 54px;
+        top: 477px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Configuracion-l4 {
+        position: absolute;
+        width: 300px;
+        height: 0px;
+        left: 38px;
+        top: 534px;
+        border: 0.25px solid #686A6A;
+    }
+}

@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles/pedido_finalizado.css'
 
-export default function Pedido_finalizado() {
+export default function PedidoFinalizado() {
     return (
         <div>
             <div className="Pedido_finalizado-container">

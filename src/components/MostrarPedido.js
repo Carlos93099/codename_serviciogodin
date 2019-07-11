@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles/mostrar_pedido.css'
 
-export default function Mostrar_pedido() {
+export default function MostrarPedido() {
     return (
         <div>
             <div>

@@ -1,0 +1,67 @@
+@media screen and (max-width: 700px) {
+    .lista_accion {
+        position: absolute;
+        width: 375px;
+        height: 700px;
+        left: 2px;
+        top: 95px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+    }
+
+    .lista_accion-spn {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 122px;
+        top: 160px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .lista_accion-spn2 {
+        position: absolute;
+        width: 229px;
+        height: 54px;
+        left: 121px;
+        top: 224px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .lista_accion-spn3 {
+        position: absolute;
+        width: 226px;
+        height: 30px;
+        left: 120px;
+        top: 298px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .lista_accion-spn4 {
+        position: absolute;
+        width: 249px;
+        height: 31px;
+        left: 121px;
+        top: 366px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+}

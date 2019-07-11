@@ -4,7 +4,7 @@ import efectivo from '../images/Group.png'
 import nomina from '../images/nomina.png'
 import './styles/seleccionar_pago.css'
 
-export default function Seleccionar_pago() {
+export default function SeleccionarPago() {
     return (
         <div>
             <span className="Seleccionar_pago-sfp">

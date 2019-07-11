@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles/registro_formulario.css'
 
-export default function Registro_formulario() {
+export default function RegistroFormulario() {
     return (
         <div>
             <div>

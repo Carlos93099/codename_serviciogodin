@@ -1,16 +1,16 @@
 import React from 'react'
-import logham from '../images/Group 8.png'
+import arrow from '../images/Arrow.png'
 import menu from '../images/mmenublanco.png'
 import user from '../images/Group 7.png'
-import './styles/navbar.css'
+import './styles/navbar4.css'
 
-export default function Navbar() {
+export default function Navbar4() {
     return (
         <div>
             <div className="Navbar">
                 <img
-                    className="Navbar_menuham"
-                    src={logham} 
+                    className="Navbar_arrow"
+                    src={arrow} 
                     alt="logo menu hamburguesa"
                 />
 
@@ -22,14 +22,13 @@ export default function Navbar() {
                     height="45px"
                 />
 
-                <a href="http://localhost:3000/configuraciones2">
-                    <img
-                        className="Navbar_user"
-                        src={user} 
-                        alt="logo usuario" 
-                    />
-                </a>
+                <img
+                    className="Navbar_user"
+                    src={user} 
+                    alt="logo usuario" 
+                />
             </div>
         </div>
     )
 }
+

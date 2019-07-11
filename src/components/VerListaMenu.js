@@ -2,7 +2,7 @@ import React from 'react'
 import eliminar from '../images/Frame.png'
 import './styles/ver_lista_menu.css'
 
-export default function Ver_lista_menu() {
+export default function VerListaMenu() {
     return (
         <div>
             <div>
